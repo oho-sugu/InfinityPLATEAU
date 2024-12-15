@@ -1,0 +1,11 @@
+{
+    "name": "tech.ortv.infinityplateau",
+    "version": "0.1.0",
+    "displayName": "Mugen PLATEAU",
+    "description": "Mugen(Infinity) PLATEAU loads online converted PLATEAU 3D Datas in runtime.",
+    "unity": "2022.3",
+    "author": "Suguru Oho <oho.sugu@gmail.com> (https://x.com/ohomagic)",
+    "dependencies": {
+        "com.atteneder.draco": "5.0.0"
+    }
+}
